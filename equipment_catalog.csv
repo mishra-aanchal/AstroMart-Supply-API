@@ -1,0 +1,16 @@
+equipment_id,name,category,mass_kg,supplier,status,price_credits
+EQ-001,Gravity Stabilizer Mk-IV,Propulsion & Gravity,1250.0,Centauri Heavy Industries,Available,45000
+EQ-002,Hydroponics Nutrient Filter,Life Support,45.0,BioSphere Synthetics,Available,1200
+EQ-003,Radiation Shielding Panel (Lead-Alloy),Structural,320.0,Titan Ore Refineries,Low Stock,8500
+EQ-004,Plasma Arc Welder,Tools,15.0,Orion Toolworks,Available,650
+EQ-005,Cryo-Sleep Pod Model S,Life Support,850.0,Aegis Biotech,Out of Stock,25000
+EQ-006,Atmospheric Scrubber Cartridge,Life Support,12.0,BioSphere Synthetics,Available,300
+EQ-007,Ion Thruster Nozzle,Propulsion & Gravity,450.0,Centauri Heavy Industries,Available,18000
+EQ-008,Quantum Transceiver Module,Communications,8.0,Nova Telecomm,Available,15000
+EQ-009,Solar Array Photovoltaic Cell,Power,85.0,Helios Power Corp,Low Stock,3200
+EQ-010,Fusion Core Cooling Rod,Power,110.0,Helios Power Corp,Available,9500
+EQ-011,Fission Fuel Rod (Enriched),Power,75.0,Titan Ore Refineries,Available,12500
+EQ-012,Thermal Control Radiator,Structural,600.0,Centauri Heavy Industries,Available,14000
+EQ-013,Laser Drill Bit (Grade A),Tools,2.0,Orion Toolworks,Available,450
+EQ-014,EVA Spacesuit Gen-5,Life Support,120.0,Aegis Biotech,Available,11000
+EQ-015,Emergency Beacon Transporter,Communications,5.0,Nova Telecomm,Available,1500
