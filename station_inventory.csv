@@ -1,0 +1,16 @@
+equipment_id,equipment_name,sku,category,station_id,station_name,stock_quantity,minimum_required,status,unit_cost_usd,manufacturer
+3001,EVA Suit Mk IV,EVA-MK4-WHT,Crew Gear,STN-ALPHA,Orbital Station Alpha,12,4,nominal,125000.00,Orbital Dynamics
+3002,Oxygen Recycler Unit,OXR-200-SLV,Life Support,STN-ALPHA,Orbital Station Alpha,8,3,nominal,84000.00,LifeSys Corp.
+3003,Solar Panel Array,SPA-400-BLK,Power Systems,STN-ALPHA,Orbital Station Alpha,24,10,nominal,340000.00,StarForge Industries
+3004,EVA Suit Mk IV,EVA-MK4-WHT,Crew Gear,STN-TITAN,Titan Relay Base,1,4,critical,125000.00,Orbital Dynamics
+3005,Oxygen Recycler Unit,OXR-200-SLV,Life Support,STN-LUNAR,Lunar Gateway,2,3,low,84000.00,LifeSys Corp.
+3006,Solar Panel Array,SPA-400-BLK,Power Systems,STN-TITAN,Titan Relay Base,3,10,critical,340000.00,StarForge Industries
+3007,Radiation Shield Module,RSM-100-TIT,Crew Gear,STN-LUNAR,Lunar Gateway,6,4,nominal,67000.00,Orbital Dynamics
+3008,Ion Thruster Assembly,ITA-X9-BLU,Propulsion,STN-TITAN,Titan Relay Base,0,2,critical,520000.00,NovaThrust Co.
+3009,Water Recovery System,WRS-300-GRY,Life Support,STN-ALPHA,Orbital Station Alpha,5,2,nominal,93000.00,LifeSys Corp.
+3010,Water Recovery System,WRS-300-GRY,Life Support,STN-LUNAR,Lunar Gateway,1,2,low,93000.00,LifeSys Corp.
+3011,Antenna Relay Kit,ARK-50-WHT,Communications,STN-ALPHA,Orbital Station Alpha,15,5,nominal,28000.00,SignalPath Labs
+3012,Food Ration Module,FRM-90D-WHT,Crew Gear,STN-TITAN,Titan Relay Base,4,20,critical,4500.00,SpaceNourish Inc.
+3013,CO2 Scrubber Cartridge,CSC-50-GRY,Life Support,STN-LUNAR,Lunar Gateway,8,10,low,1200.00,LifeSys Corp.
+3014,CO2 Scrubber Cartridge,CSC-50-GRY,Life Support,STN-ALPHA,Orbital Station Alpha,42,10,nominal,1200.00,LifeSys Corp.
+3015,Micro-Meteorite Patch Kit,MPK-10-ORG,Structural,STN-TITAN,Titan Relay Base,0,5,critical,750.00,Orbital Dynamics
