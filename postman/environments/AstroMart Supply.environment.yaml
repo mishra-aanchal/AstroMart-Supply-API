@@ -1,0 +1,4 @@
+name: AstroMart Supply
+values:
+  - key: base_url
+    value: 'https://mock.astromart.space/v1'

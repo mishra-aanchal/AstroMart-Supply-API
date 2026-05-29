@@ -1,0 +1,14 @@
+$kind: http-request
+method: PUT
+url: '{{base_url}}/stations/{{station_id}}/restock'
+order: 4000
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "sku": "{{sku}}",
+      "restock_quantity": {{restock_quantity}}
+    }

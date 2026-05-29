@@ -1,0 +1,9 @@
+$kind: http-request
+method: GET
+url: '{{base_url}}/equipment'
+order: 1000
+queryParams:
+  - key: name
+    value: '{{equipment_name}}'
+  - key: sku
+    value: '{{sku}}'

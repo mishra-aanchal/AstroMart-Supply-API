@@ -1,0 +1,17 @@
+$kind: http-request
+method: POST
+url: '{{base_url}}/orders'
+order: 3000
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "equipment_name": "{{equipment_name}}",
+      "sku": "{{sku}}",
+      "quantity": {{quantity}},
+      "mission_id": "{{mission_id}}",
+      "destination_station": "{{destination_station}}"
+    }
