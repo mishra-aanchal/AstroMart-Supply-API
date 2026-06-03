@@ -1,0 +1,14 @@
+{
+  "id": "019e7471-0f25-7180-b1a3-fd075bdb4766",
+  "version": 1,
+  "name": "Equipment Catalog Local Mock",
+  "slug": "equipment-catalog",
+  "protocol": "http",
+  "port": 4500,
+  "mockSrc": "./mock.js",
+  "autoRestartOnChange": true,
+  "logging": {
+    "level": "verbose",
+    "showBody": true
+  }
+}
